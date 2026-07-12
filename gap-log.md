@@ -46,4 +46,8 @@ Raw capture layer for every miss. Fast in, promote later. One bullet per miss, w
 - (missed:: 2026-07-12) (genre:: World) (sub:: Rivers) (review:: 2026-07-13) (n:: 1) **Q:** River that flows through Baghdad? **A:** The Tigris — answered "Jordan" (confused the river with the country Jordan, the correct answer to a different question in the same set)
 - (missed:: 2026-07-12) (genre:: World) (sub:: Capitals) (review:: 2026-07-13) (n:: 1) **Q:** Capital of Kazakhstan? **A:** Astana — answered "Tashkent" (that's the capital of Uzbekistan, not Kazakhstan)
 
+- (missed:: 2026-07-13) (genre:: Culture) (sub:: Traditions) (review:: 2026-07-14) (n:: 1) **Q:** Japanese tea ceremony centred on preparing and serving matcha? **A:** Chanoyu (the "Way of Tea") — skipped
+- (missed:: 2026-07-13) (genre:: Lifestyle) (sub:: Fashion) (review:: 2026-07-14) (n:: 1) **Q:** French designer, "little black dress" and No. 5 perfume, founded house 1910? **A:** Coco Chanel — answered "Ralph Lauren" (wrong designer entirely — Ralph Lauren is American, no connection to the little black dress or a No. 5 perfume)
+- (missed:: 2026-07-13) (genre:: Sport & Games) (sub:: Card games) (review:: 2026-07-14) (n:: 1) **Q:** Cards dealt to each of four bridge players? **A:** 13 — answered "7" (likely conflating with a different card game's hand size)
+
 <!-- Add new misses above this line, newest at the bottom of the list. Run GAPLOG in chat to get clean pre-formatted entries. -->
