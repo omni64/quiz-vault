@@ -1,0 +1,57 @@
+filters: file.hasTag("element")
+properties:
+  number:
+    displayName: "#"
+  symbol:
+    displayName: Sym
+  element_name:
+    displayName: Element
+  discovered_by:
+    displayName: Discovered by
+  facts:
+    displayName: Unique facts
+  compounds:
+    displayName: Common compounds
+views:
+  - type: table
+    name: All Elements
+    order:
+      - number
+      - symbol
+      - element_name
+      - discovered_by
+      - facts
+      - compounds
+  - type: table
+    name: Ancient / Pre-1800
+    filters:
+      and:
+        - discovered_by.contains("antiquity") || discovered_by.contains("prehistoric") || discovered_by.contains("medieval")
+    order:
+      - number
+      - symbol
+      - element_name
+      - discovered_by
+      - facts
+      - compounds
+  - type: table
+    name: Synthetic / Transuranium (93-118)
+    filters:
+      and:
+        - number >= 93
+    order:
+      - number
+      - symbol
+      - element_name
+      - discovered_by
+      - facts
+      - compounds
+  - type: cards
+    name: Card View
+    order:
+      - element_name
+      - symbol
+      - number
+      - discovered_by
+      - facts
+      - compounds

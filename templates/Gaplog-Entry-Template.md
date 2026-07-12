@@ -1,0 +1,1 @@
+- (missed:: <% tp.date.now("YYYY-MM-DD") %>) (genre:: ) (sub:: ) (review:: <% tp.date.now("YYYY-MM-DD", 1) %>) (n:: 1) **Q:**  **A:**  → promote to [[ ]]
