@@ -27,3 +27,4 @@ These notes are generated and hand-checked for a quizzing syllabus, not copied f
 
 > [!warning] Verify volatile items before competition
 > Anything tagged `#volatile` carries an "as of" date. Re-check it near your sitting — these change.
+# quiz-vault
