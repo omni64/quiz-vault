@@ -37,4 +37,13 @@ Raw capture layer for every miss. Fast in, promote later. One bullet per miss, w
 - (missed:: 2026-07-11) (genre:: Sciences) (sub:: Exact sciences) (review:: 2026-07-12) (n:: 1) **Q:** Symbol Sb comes from Latin "stibium" — which element? **A:** Antimony — answered "Tin" (Sn/stannum) → already covered by [[Element-Symbols-from-Latin]], misses bumped
 - (missed:: 2026-07-11) (genre:: Sciences) (sub:: Exact sciences) (review:: 2026-07-12) (n:: 1) **Q:** Lightest element that's solid at room temperature? **A:** Lithium — answered "Calcium" (H/He are gases; Li is first solid) → logged on [[003-Lithium|Lithium]]
 
+- (missed:: 2026-07-12) (genre:: Culture) (sub:: Architecture) (review:: 2026-07-13) (n:: 1) **Q:** Ancient wonder — lighthouse on an island near Alexandria? **A:** The Lighthouse (Pharos) of Alexandria — answered "Babylon" (named a different ancient civilisation entirely, likely conflating with the Hanging Gardens of Babylon)
+- (missed:: 2026-07-12) (genre:: Culture) (sub:: Philosophy) (review:: 2026-07-13) (n:: 1) **Q:** Greek philosopher, tutor to Alexander the Great, founded the Lyceum? **A:** Aristotle — skipped
+- (missed:: 2026-07-12) (genre:: History) (sub:: General history) (review:: 2026-07-13) (n:: 1) **Q:** Year the Berlin Wall fell? **A:** 1989 — answered "1992" (off by 3 years)
+- (missed:: 2026-07-12) (genre:: Lifestyle) (sub:: Design) (review:: 2026-07-13) (n:: 1) **Q:** German art school founded by Walter Gropius in 1919? **A:** The Bauhaus — skipped
+- (missed:: 2026-07-12) (genre:: Media) (sub:: Periodicals) (review:: 2026-07-13) (n:: 1) **Q:** British weekly satirical magazine (1841) that gave its name to "cartoon"? **A:** Punch — skipped
+- (missed:: 2026-07-12) (genre:: Sciences) (sub:: Flora) (review:: 2026-07-13) (n:: 1) **Q:** Plant family shared by potato, tomato, and pepper? **A:** Nightshade family (Solanaceae) — answered "Tuber" (that's the plant structure the potato is, not the taxonomic family)
+- (missed:: 2026-07-12) (genre:: World) (sub:: Rivers) (review:: 2026-07-13) (n:: 1) **Q:** River that flows through Baghdad? **A:** The Tigris — answered "Jordan" (confused the river with the country Jordan, the correct answer to a different question in the same set)
+- (missed:: 2026-07-12) (genre:: World) (sub:: Capitals) (review:: 2026-07-13) (n:: 1) **Q:** Capital of Kazakhstan? **A:** Astana — answered "Tashkent" (that's the capital of Uzbekistan, not Kazakhstan)
+
 <!-- Add new misses above this line, newest at the bottom of the list. Run GAPLOG in chat to get clean pre-formatted entries. -->
