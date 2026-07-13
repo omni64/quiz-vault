@@ -50,4 +50,10 @@ Raw capture layer for every miss. Fast in, promote later. One bullet per miss, w
 - (missed:: 2026-07-13) (genre:: Lifestyle) (sub:: Fashion) (review:: 2026-07-14) (n:: 1) **Q:** French designer, "little black dress" and No. 5 perfume, founded house 1910? **A:** Coco Chanel — answered "Ralph Lauren" (wrong designer entirely — Ralph Lauren is American, no connection to the little black dress or a No. 5 perfume)
 - (missed:: 2026-07-13) (genre:: Sport & Games) (sub:: Card games) (review:: 2026-07-14) (n:: 1) **Q:** Cards dealt to each of four bridge players? **A:** 13 — answered "7" (likely conflating with a different card game's hand size)
 
+- (missed:: 2026-07-14) (genre:: History) (sub:: Ancient history) (review:: 2026-07-15) (n:: 1) **Q:** Ancient wonder — giant bronze statue of the sun god Helios at a Greek harbour? **A:** The Colossus of Rhodes — skipped
+- (missed:: 2026-07-14) (genre:: History) (sub:: Revolutions) (review:: 2026-07-15) (n:: 1) **Q:** 1789 storming of a Paris fortress-prison, start of the French Revolution? **A:** The Storming of the Bastille — skipped
+- (missed:: 2026-07-14) (genre:: Lifestyle) (sub:: Food & drink) (review:: 2026-07-15) (n:: 1) **Q:** Spongy, sourdough Ethiopian flatbread used as plate and utensil? **A:** Injera — skipped
+- (missed:: 2026-07-14) (genre:: Media) (sub:: Journalism) (review:: 2026-07-15) (n:: 1) **Q:** British news agency (1851), one of the world's largest wire services? **A:** Reuters — answered "Telegraph" (that's a newspaper, not a wire service)
+- (missed:: 2026-07-14) (genre:: World) (sub:: Currencies) (review:: 2026-07-15) (n:: 1) **Q:** Currency of Mexico? **A:** The Mexican peso — answered "Mexico City" (gave the capital, not the currency)
+
 <!-- Add new misses above this line, newest at the bottom of the list. Run GAPLOG in chat to get clean pre-formatted entries. -->
