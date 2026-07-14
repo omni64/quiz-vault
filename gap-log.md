@@ -50,4 +50,15 @@ Raw capture layer for every miss. Fast in, promote later. One bullet per miss, w
 - (missed:: 2026-07-13) (genre:: Lifestyle) (sub:: Fashion) (review:: 2026-07-14) (n:: 1) **Q:** French designer, "little black dress" and No. 5 perfume, founded house 1910? **A:** Coco Chanel — answered "Ralph Lauren" (wrong designer entirely — Ralph Lauren is American, no connection to the little black dress or a No. 5 perfume)
 - (missed:: 2026-07-13) (genre:: Sport & Games) (sub:: Card games) (review:: 2026-07-14) (n:: 1) **Q:** Cards dealt to each of four bridge players? **A:** 13 — answered "7" (likely conflating with a different card game's hand size)
 
+- (missed:: 2026-07-14) (genre:: History) (sub:: Ancient history) (review:: 2026-07-15) (n:: 1) **Q:** Ancient wonder — giant bronze statue of Helios at a Greek harbour? **A:** The Colossus of Rhodes — skipped
+- (missed:: 2026-07-14) (genre:: History) (sub:: Revolutions) (review:: 2026-07-15) (n:: 1) **Q:** 1789 storming of a Paris fortress-prison, start of the French Revolution? **A:** The Storming of the Bastille — skipped
+- (missed:: 2026-07-14) (genre:: Lifestyle) (sub:: Food & drink) (review:: 2026-07-15) (n:: 1) **Q:** Spongy sourdough Ethiopian flatbread, doubles as plate and utensil? **A:** Injera — skipped
+- (missed:: 2026-07-14) (genre:: Media) (sub:: Journalism) (review:: 2026-07-15) (n:: 1) **Q:** British wire service founded 1851? **A:** Reuters — answered "Telegraph" (that's a newspaper, not the 1851 wire service)
+- (missed:: 2026-07-14) (genre:: World) (sub:: Currencies) (review:: 2026-07-15) (n:: 1) **Q:** Currency of Mexico? **A:** The Mexican peso — answered "Mexico City" (gave the capital instead of the currency)
+
+- (missed:: 2026-07-15) (genre:: Culture) (sub:: Mythology) (review:: 2026-07-16) (n:: 1) **Q:** Multi-armed Hindu goddess of power and destruction, garland of skulls? **A:** Kali — answered "Shiva" (Shiva is a god, not the skull-garlanded goddess)
+- (missed:: 2026-07-15) (genre:: Entertainment) (sub:: Music) (review:: 2026-07-16) (n:: 1) **Q:** British rock band formed London 1962, "(I Can't Get No) Satisfaction," "Paint It Black"? **A:** The Rolling Stones — answered "Black Sabbath" (formed 1968 Birmingham — wrong band, wrong decade)
+- (missed:: 2026-07-15) (genre:: History) (sub:: 20th century) (review:: 2026-07-16) (n:: 1) **Q:** 1917 upheaval that overthrew the Russian Tsar and paved the way for Bolshevik rule? **A:** The Russian Revolution — skipped
+- (missed:: 2026-07-15) (genre:: History) (sub:: Exploration) (review:: 2026-07-16) (n:: 1) **Q:** 1804–06 American expedition, two co-captains, overland route to the Pacific Northwest? **A:** The Lewis and Clark Expedition — skipped
+
 <!-- Add new misses above this line, newest at the bottom of the list. Run GAPLOG in chat to get clean pre-formatted entries. -->
