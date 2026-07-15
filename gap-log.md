@@ -61,4 +61,14 @@ Raw capture layer for every miss. Fast in, promote later. One bullet per miss, w
 - (missed:: 2026-07-15) (genre:: History) (sub:: 20th century) (review:: 2026-07-16) (n:: 1) **Q:** 1917 upheaval that overthrew the Russian Tsar and paved the way for Bolshevik rule? **A:** The Russian Revolution — skipped
 - (missed:: 2026-07-15) (genre:: History) (sub:: Exploration) (review:: 2026-07-16) (n:: 1) **Q:** 1804–06 American expedition, two co-captains, overland route to the Pacific Northwest? **A:** The Lewis and Clark Expedition — skipped
 
+- (missed:: 2026-07-16) (genre:: Culture) (sub:: Mythology) (review:: 2026-07-17) (n:: 1) **Q:** Egyptian goddess of magic and motherhood, wife of Osiris? **A:** Isis — skipped
+- (missed:: 2026-07-16) (genre:: History) (sub:: Ancient history) (review:: 2026-07-17) (n:: 1) **Q:** Babylonian king credited with one of the earliest written law codes? **A:** Hammurabi — answered "Solomon" (Solomon was a biblical king of Israel, not the Babylonian lawgiver)
+- (missed:: 2026-07-16) (genre:: History) (sub:: 20th century) (review:: 2026-07-17) (n:: 1) **Q:** 1949 event, led by Mao Zedong, established the People's Republic of China? **A:** The Chinese Communist Revolution (founding of the PRC) — skipped
+- (missed:: 2026-07-16) (genre:: Lifestyle) (sub:: Food & drink) (review:: 2026-07-17) (n:: 1) **Q:** Italian flatbread dish topped with tomato, mozzarella, and basil, said to honour Queen Margherita? **A:** Margherita pizza — no answer given (numbering skipped straight from Q8 to Q10 in the reply)
+- (missed:: 2026-07-16) (genre:: Lifestyle) (sub:: Design) (review:: 2026-07-17) (n:: 1) **Q:** American architect who designed the spiral-shaped Solomon R. Guggenheim Museum? **A:** Frank Lloyd Wright — skipped
+- (missed:: 2026-07-16) (genre:: Media) (sub:: Literature) (review:: 2026-07-17) (n:: 1) **Q:** Russian-American novelist who wrote "Lolita" and "Pale Fire"? **A:** Vladimir Nabokov — answered "Tolstoy" (Tolstoy is a different Russian novelist — wrong author, and this exact Tolstoy/Nabokov mix-up risk should be watched)
+- (missed:: 2026-07-16) (genre:: Media) (sub:: Journalism) (review:: 2026-07-17) (n:: 1) **Q:** British public broadcaster, founded 1922, operates the BBC World Service? **A:** The BBC — skipped
+- (missed:: 2026-07-16) (genre:: Sport & Games) (sub:: Board games) (review:: 2026-07-17) (n:: 1) **Q:** In Monopoly, what colour are the most expensive properties on a standard US board? **A:** Dark blue (Boardwalk and Park Place) — answered "RED" (red is the second-most-expensive tier, not the top one)
+- (missed:: 2026-07-16) (genre:: World) (sub:: Capitals) (review:: 2026-07-17) (n:: 1) **Q:** Capital of South Korea? **A:** Seoul — answered "Won" (gave the currency instead of the capital — same mix-up pattern as the 07-14 Mexico peso/Mexico City miss)
+
 <!-- Add new misses above this line, newest at the bottom of the list. Run GAPLOG in chat to get clean pre-formatted entries. -->
