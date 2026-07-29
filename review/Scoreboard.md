@@ -25,7 +25,8 @@ Running log of Daily 20 digests: sent, answered, and scored. Updated automatical
 | 2026-07-24 | ✅ (AgentMail) | ❌ unanswered (no reply as of 07-25) | — | — |
 | 2026-07-25 | ✅ (AgentMail) | ❌ unanswered (no reply as of 07-26) | — | — |
 | 2026-07-26 | ✅ (AgentMail) | ❌ unanswered (no reply as of 07-27) | — | — |
-| 2026-07-27 | ✅ (AgentMail) | ⏳ pending | — | — |
+| 2026-07-27 | ✅ (AgentMail) | ❌ unanswered (no reply as of 07-29) | — | — |
+| 2026-07-28 | ✅ (AgentMail, backfilled) | ⏳ pending | — | — |
 
 ## Notes
 - "Genre leaks" = genres where misses clustered that session — cross-reference with [[Review-Queue]] and `gap-log.md`.
